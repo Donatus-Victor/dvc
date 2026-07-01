@@ -12,6 +12,7 @@ mkdir data_given
 # Save downloaded file as: data_given/winequality.csv
 
 # Init repo
+git add .
 git init
 dvc init
 
